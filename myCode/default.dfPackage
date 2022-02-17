@@ -1,0 +1,131 @@
+package id1xk2gkxja8fc8kxja8gro;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#CGame:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#CCard:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+/**
+@__ref <oiref:cpp#Class#CDeck:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:cpp#Class#CPlayer:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+/**
+@__ref <oiref:cpp#Class#CBalance:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}
+/**
+@__ref <oiref:cpp#Class#CDealer:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+/**
+@__ref <oiref:cpp#Class#CGuest:oiref><oihard>
+@__modelType reference 
+*/
+class reference7 {
+}
+/**
+@__ref <oiref:design#Class#id1xk2gkxja8fc8kxja8gro.nodeid6yih5kzjrq28akzk56vwd:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram 
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAGc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAX3klmAAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAA01TSXQACTxkZWZhdWx0PnQA
+BXJvYm9teHNxAH4AAgAAAX7rOrQAc3EAfgAFAAAAAXcEAAAACnNxAH4AB3QAD0RFU0tUT1AtMTBT
+VUYyTXQACTxkZWZhdWx0PnQAD01hdGVvIEMuIFF1ZXJvbHhzcQB+AAIAAAF+9YdsAHNxAH4ABQAA
+AAF3BAAAAApzcQB+AAd0AA9ERVNLVE9QLTEwU1VGMk10AAk8ZGVmYXVsdD50AA9NYXRlbyBDLiBR
+dWVyb2x4c3EAfgACAAABfuYUWABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAAPREVTS1RPUC0xMFNV
+RjJNdAAJPGRlZmF1bHQ+dAAPTWF0ZW8gQy4gUXVlcm9seHNxAH4AAgAAAX76rcgAc3EAfgAFAAAA
+AXcEAAAACnNxAH4AB3QAD0RFU0tUT1AtMTBTVUYyTXQACTxkZWZhdWx0PnQAD01hdGVvIEMuIFF1
+ZXJvbHhzcQB+AAIAAAF/BPqAAHNxAH4ABQAAAAF3BAAAAApzcQB+AAd0AA9ERVNLVE9QLTEwU1VG
+Mk10AAk8ZGVmYXVsdD50AA9NYXRlbyBDLiBRdWVyb2x4eA==
+@elementChangelogs rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAHdAAdPG9pcmVmOmNwcCNDbGFzcyNDQ2FyZDpvaXJlZj5w
+dAAdPG9pcmVmOmNwcCNDbGFzcyNDRGVjazpvaXJlZj5wdAAfPG9pcmVmOmNwcCNDbGFzcyNDUGxh
+eWVyOm9pcmVmPnNxAH4AAD9AAAAAAAAMdwgAAAAQAAAAAXNyAA5qYXZhLmxhbmcuTG9uZzuL5JDM
+jyPfAgABSgAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAAF/BPqAAHNy
+ABNqYXZhLnV0aWwuQXJyYXlMaXN0eIHSHZnHYZ0DAAFJAARzaXpleHAAAAABdwQAAAAKc3IAJWRl
+Lm1ubC5kb2Nib29rNFRBLmltcGwuQ2hhbmdlTG9nRW50cnkHjY61+aoknwIAA0wACGhvc3RuYW1l
+dAASTGphdmEvbGFuZy9TdHJpbmc7TAAEbmFtZXEAfgAMTAAEdXNlcnEAfgAMeHB0AA9ERVNLVE9Q
+LTEwU1VGMk10AAdDUGxheWVydAAPTWF0ZW8gQy4gUXVlcm9seHh0AB88b2lyZWY6Y3BwI0NsYXNz
+I0NEZWFsZXI6b2lyZWY+c3EAfgAAP0AAAAAAAAx3CAAAABAAAAABc3EAfgAGAAABfwT6gABzcQB+
+AAkAAAABdwQAAAAKc3EAfgALcQB+AA50AAdDRGVhbGVycQB+ABB4eHQAHjxvaXJlZjpjcHAjQ2xh
+c3MjQ0d1ZXN0Om9pcmVmPnNxAH4AAD9AAAAAAAAMdwgAAAAQAAAAAXNxAH4ABgAAAX8E+oAAc3EA
+fgAJAAAAAXcEAAAACnNxAH4AC3EAfgAOdAAGQ0d1ZXN0cQB+ABB4eHQAHTxvaXJlZjpjcHAjQ2xh
+c3MjQ0dhbWU6b2lyZWY+c3EAfgAAP0AAAAAAAAx3CAAAABAAAAACc3EAfgAGAAABfvqtyABzcQB+
+AAkAAAABdwQAAAAKc3EAfgALdAAPREVTS1RPUC0xMFNVRjJNdAAFQ0dhbWV0AA9NYXRlbyBDLiBR
+dWVyb2x4c3EAfgAGAAABfwT6gABzcQB+AAkAAAABdwQAAAAKc3EAfgALcQB+AA50AAVDR2FtZXEA
+fgAQeHh0ACA8b2lyZWY6Y3BwI0NsYXNzI0NCYWxhbmNlOm9pcmVmPnB4
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:cpp#Class#CGuest:oiref>=450,310,110,120,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CPlayer#cards:oiref>=560,252,244,314:oigroup>
+<oigroup:<oiref:design#Class#id1xk2gkxja8fc8kxja8gro.nodeid6yih5kzjrq28akzk56vwd:oiref>=798,114,323,123,0:oigroup>
+<oigroup:<oiref:cpp#Class#CGame:oiref>=380,10,125,126,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#players:oiref>=505,111,560,151:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGuest#bal:oiref>=505,430,505,460:oigroup>
+<oigroup:<oiref:cpp#Class#CBalance:oiref>=390,460,200,126,0:oigroup>
+<oigroup:<oiref:cpp#Member#CGame#$$constructor$$#(##)#:oiref>=380,80,103,16,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CGame:oiref><Autodependency><oiref:cpp#Class#CGuest:oiref>=463,136,463,310:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CGame:oiref><Autodependency><oiref:cpp#Class#CDealer:oiref>=484,136,808,320:oigroup>
+<oigroup:<oiref:cpp#Class#CDealer:oiref>=710,320,103,100,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CDeck#DECK:oiref>=195,270,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CDeck#deck:oiref>=263,226,263,290:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPlayer:oiref><Autodependency><oiref:cpp#Class#CDeck:oiref>=560,183,318,183:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CPlayer#cards:oiref>=248,288,26,16,0:oigroup>
+<oigroup:<oiref:cpp#Extends#CDealer#CPlayer:oiref>=774,320,653,284:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#deck:oiref>=380,121,346,121:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CDeck#DECK:oiref>=227,258,227,290:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CGame#players:oiref>=528,105,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Extends#CGuest#CPlayer:oiref>=511,310,611,284:oigroup>
+<oigroup:<oiref:cpp#Class#CCard:oiref>=120,290,124,174,1:oigroup>
+<oigroup:<oiref:cpp#Class#CDeck:oiref>=210,100,136,158,1:oigroup>
+<oigroup:<oiref:cpp#Class#CPlayer:oiref>=560,110,160,174,1:oigroup>
+*/
+class __positions {
+}
+/**
+@shapeType Note
+@__modelType node
+@name Note1
+@text check that video about function pointers for polymorphism 
+*/
+class nodeid6yih5kzjrq28akzk56vwd {
+}
